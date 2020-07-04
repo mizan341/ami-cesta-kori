@@ -202,29 +202,26 @@ footer{
                 0 0 40px #03e9f4,
                 0 0 80px #03e9f4;
 }
+
+
 /* ----------------------------text area start--------------------------------- */
 /* ----------------------------text area start--------------------------------- */
-/* @media all and (max-width: 580px) {
+
+@media all and (max-width: 580px) {
     #social-media {
         display: flex;
         flex-direction: row;
         min-height: 50px;
         align-items: center;
         justify-content: space-around;
-        
+
     }
+
     .fa {
         font-size: 20px;
 
     }
-    .nav-list{
-        font-size: 13px;
-    }
-       
 }
-@media all and (min-width: 500px) {
-    h3 {
-        font-size: 22px;
-    }
 
-} */
+
+
