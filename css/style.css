@@ -204,7 +204,7 @@ footer{
 }
 /* ----------------------------text area start--------------------------------- */
 /* ----------------------------text area start--------------------------------- */
-@media all and (max-width: 580px) {
+/* @media all and (max-width: 580px) {
     #social-media {
         display: flex;
         flex-direction: row;
@@ -227,4 +227,4 @@ footer{
         font-size: 22px;
     }
 
-}
+} */
