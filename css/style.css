@@ -227,23 +227,4 @@ footer{
         font-size: 22px;
     }
 
-    #name-id {
-        
-        font-size: 27px;
-    }
-       #social-media {
-           display: flex;
-           flex-direction: row;
-           min-height: 50px;
-           align-items: center;
-           justify-content: space-around;
-
-       }
-
-       .fa {
-           font-size: 20px;               
-}
-.nav-list {
-    font-size: 12px;
-}
 }
