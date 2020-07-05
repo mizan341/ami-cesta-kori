@@ -208,19 +208,48 @@ footer{
 /* ----------------------------text area start--------------------------------- */
 
 @media all and (max-width: 580px) {
+   .nav-list {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       min-height: 220px;
+       justify-content: space-around;
+    }
+   
     #social-media {
         display: flex;
         flex-direction: row;
         min-height: 50px;
         align-items: center;
         justify-content: space-around;
-
     }
 
     .fa {
         font-size: 20px;
+     }
 
+}
+@media all and (max-width: 580px) {
+   .nav-list {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       min-height: 220px;
+       justify-content: space-around;
     }
+   
+    #social-media {
+        display: flex;
+        flex-direction: row;
+        min-height: 50px;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .fa {
+        font-size: 20px;
+     }
+
 }
 
 
