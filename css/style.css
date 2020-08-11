@@ -205,18 +205,45 @@ footer{
                 0 0 40px #03e9f4,
                 0 0 80px #03e9f4;
 }
+
+
 /* ----------------------------text area start--------------------------------- */
 /* ----------------------------media query start--------------------------------- */
+<<<<<<< HEAD
 @media all and (max-width: 575px) {
+=======
+
+@media all and (max-width: 580px) {
+   .nav-list {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       min-height: 220px;
+       justify-content: space-around;
+    }
+   
+>>>>>>> 74bcce6f3e17cf9b7e8e8d77949927ab2fa06952
     #social-media {
         display: flex;
         flex-direction: row;
         min-height: 100px;
         align-items: center;
         justify-content: space-around;
-        
     }
+<<<<<<< HEAD
      .fa {
         font-size: 20px;
     }
 }
+=======
+
+    .fa {
+        font-size: 20px;
+     }
+
+}
+/* ----------------------------media query end--------------------------------- */
+
+
+
+>>>>>>> 74bcce6f3e17cf9b7e8e8d77949927ab2fa06952
